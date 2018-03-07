@@ -1,0 +1,1 @@
+export const USER_LOGINED_IN = 'USER_LOGGED_IN';
